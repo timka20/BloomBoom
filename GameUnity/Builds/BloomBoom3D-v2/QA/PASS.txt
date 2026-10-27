@@ -1,0 +1,1 @@
+PASS v2: keyboard movement + footsteps; nine flower types; card required; wallet equip/open/draw/tap/stow; pause; physical terminal reach; duplicate-input protection; six purchases; stock depletion; both optional-photo paths; two repeat photo sessions; 50% refunds; continuation; full inventory blocks charge; restart.

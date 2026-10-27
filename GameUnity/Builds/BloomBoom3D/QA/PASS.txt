@@ -1,0 +1,1 @@
+PASS: title, story, rendered mall, movement, catalogue, terminal raycast, payment, door, pickup raycast, inventory, booth doorway collision, screen raycast, countdown, print, photo pickup, discount, restart.
